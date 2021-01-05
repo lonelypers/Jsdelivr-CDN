@@ -9,3 +9,11 @@ https://cdn.jsdelivr.net/gh/lonelypers/Jsdelivr-CDN@master/Akina/3.4.3
 一些文件    
 ## img
 静态图片    
+
+若CDN 链接 想手动刷新时 把链接中的
+
+https://cdn.jsdelivr.net/
+替换成
+
+https://purge.jsdelivr.net/
+即可实时刷新
